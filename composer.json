@@ -19,7 +19,7 @@
   ],
   "require": {
     "php": ">=5.5",
-    "turbo124/phpexcel": "php74fix",
+    "turbo124/phpexcel": "dev-php74fix",
     "illuminate/cache": "*",
     "illuminate/config": "*",
     "illuminate/filesystem": "*",
