@@ -63,5 +63,11 @@
                 "Excel": "Maatwebsite\\Excel\\Facades\\Excel"
             }
         }
-    }
+    },
+    "repositoroes" :[
+        {
+            "type": "vcs",
+            "url": "https://github.com/turbo124/PHPExcel.git"
+        }
+    ]
 }
